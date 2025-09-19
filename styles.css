@@ -33,7 +33,7 @@ body {
 }
 
 .auth-card {
-    background: white;
+    background: orange;
     border-radius: 20px;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
     padding: 40px;
